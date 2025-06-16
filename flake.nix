@@ -17,6 +17,11 @@
           path = ./template;
           description = "Template for writing flake templates";
         };
+
+        latex = {
+          path = ./latex;
+          description = "Template for writing documents with LaTeX";
+        };
       };
 
     };
